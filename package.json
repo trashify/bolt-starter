@@ -36,7 +36,7 @@
 		"mobx": "^3.1.0",
 		"mobx-react": "^4.1.0",
 		"react": "~15.4.0",
-		"react-native": "0.41.2",
+		"react-native": "0.42.0",
 		"react-native-animatable": "^1.1.0",
 		"react-native-code-push": "latest",
 		"react-native-device-info": "^0.9.9",
